@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anildo-Marques23
-- 👀 I’m interested in  Back-End with phyton and javascript
-- 🌱 I’m currently learning phyton and javascript
+- 👀 I’m interested in  Back-End with Python, javascript and java
+- 🌱 I’m currently learning Python, javascript and java
 - 💞️ I’m looking to collaborate on projects open source and cool 
 - 📫 How to reach me @anildomarques23 from instagram and twitter
 
